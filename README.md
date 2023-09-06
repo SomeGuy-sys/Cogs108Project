@@ -4,4 +4,4 @@ This is more of a data visualization project that used opened-source python liba
 
 # Overview
 
-The data is composed of streaming metrics from a Twitch dataset and gaming metrics from a steam data set both where from kaggle. The data cleaned by organizing games and streaming metrics by the name of the game, month, and years. <br> the cleaned data was ran through linear regression  and saw that there was a weak, but a signifigant relationship betweeen the average views of a game on Twitch and average player population on Steam.
+The data is composed of streaming metrics from a Twitch dataset and gaming metrics from a steam data set both where from kaggle. The data cleaned by organizing games and streaming metrics by the name of the game, month, and years. <br> The cleaned data was ran through linear regression and saw that there was a weak, but a signifigant relationship betweeen the average views of a game on Twitch and average player population on Steam.
