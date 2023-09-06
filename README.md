@@ -10,5 +10,5 @@ The data is composed of streaming metrics from a Twitch dataset and gaming metri
 
 - Parsing csv files
 - Using **Data Visualization** tools on big data sets
-- Using python code and python libaries **pandas** to visualize data 
+- Using python code and python libaries **pandas** and **seaborn** to visualize data 
 - infering conlusions based on data
